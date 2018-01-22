@@ -1,0 +1,14 @@
+c:\users\media\documents\visual studio 2015\Projects\NBPKursyWalut\NBPKursyWalut\bin\Debug\NBPKursyWalut.exe.config
+c:\users\media\documents\visual studio 2015\Projects\NBPKursyWalut\NBPKursyWalut\obj\Debug\NBPKursyWalut.Properties.Resources.resources
+c:\users\media\documents\visual studio 2015\Projects\NBPKursyWalut\NBPKursyWalut\obj\Debug\NBPKursyWalut.csproj.GenerateResource.Cache
+c:\users\media\documents\visual studio 2015\Projects\NBPKursyWalut\NBPKursyWalut\bin\Debug\NBPKursyWalut.exe
+c:\users\media\documents\visual studio 2015\Projects\NBPKursyWalut\NBPKursyWalut\bin\Debug\NBPKursyWalut.pdb
+c:\users\media\documents\visual studio 2015\Projects\NBPKursyWalut\NBPKursyWalut\obj\Debug\NBPKursyWalut.exe
+c:\users\media\documents\visual studio 2015\Projects\NBPKursyWalut\NBPKursyWalut\obj\Debug\NBPKursyWalut.pdb
+C:\Users\Media\documents\visual studio 2015\Projects\NBPKursyWalut\NBPKursyWalut\obj\Debug\NBPKursyWalut.ManagerF.resources
+C:\Users\Media\documents\visual studio 2015\Projects\NBPKursyWalut\NBPKursyWalut\obj\Debug\NBPKursyWalut.Waluta.UserControls.WalutaSingleUC.resources
+C:\Users\Media\documents\visual studio 2015\Projects\NBPKursyWalut\NBPKursyWalut\obj\Debug\NBPKursyWalut.Forms.DataShowF.resources
+C:\Users\Media\documents\visual studio 2015\Projects\NBPKursyWalut\NBPKursyWalut\obj\Debug\NBPKursyWalut.Waluta.UserControls.WalutaTableUC.resources
+C:\Users\Media\documents\visual studio 2015\Projects\NBPKursyWalut\NBPKursyWalut\obj\Debug\NBPKursyWalut.csprojResolveAssemblyReference.cache
+C:\Users\Media\documents\visual studio 2015\Projects\NBPKursyWalut\NBPKursyWalut\bin\Debug\NBPKursyWalut.exe.CodeAnalysisLog.xml
+C:\Users\Media\documents\visual studio 2015\Projects\NBPKursyWalut\NBPKursyWalut\bin\Debug\NBPKursyWalut.exe.lastcodeanalysissucceeded
